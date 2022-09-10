@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519838770488",
+    "project_id": "emailpasswordauth-e45ca",
+    "storage_bucket": "emailpasswordauth-e45ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519838770488:android:51f061e2c29e985948cdcd",
+        "android_client_info": {
+          "package_name": "com.example.darbni_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519838770488-repnd9lvccpv7evpqjd0ii8mbf103ejc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCADvNiekyCQQVMRS33x7VSGYhOxFxHDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519838770488-repnd9lvccpv7evpqjd0ii8mbf103ejc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
